@@ -10,15 +10,16 @@ ATMs are automated cash dispensing booths connected to the banks through their n
 
 ## Advantages of ATM
 The main advantages of ATM include:
-  •	Accessible from anywhere
-  •	Available 24*7
+  - Accessible from anywhere
+  - Available 24*7
+  - Transact faster
 
 ## ATM Machine
 Typical ATM components include:
-  •	Monitor interface which interacts with the user for various transactions
-  •	Keypad to enter the PIN
-  •	Slot to insert ATM card
-  •	Cash Dispenser
+  - Monitor interface which interacts with the user for various transactions
+  - Keypad to enter the PIN
+  - Slot to insert ATM card
+  - Cash Dispenser
   
 ## Withdrawing Cash from ATMs
 To withdraw cash:
@@ -28,4 +29,4 @@ To withdraw cash:
   4.	Using the Keypad, enter the amount correctly using the keypad. The ATM starts processing the cash within the device and after a few seconds the cash appears in the cash dispenser. The message `Collect your cash and remove your card` displays.
   5.	Swipe out your debit card from the ATM card slot. You have successfully withdrawn cash from the ATM.
 
-> This set of instruction is available on [this]() webpage.
+> This set of instruction is available on [this](https://sangeeta1004.github.io/RED-HAT/) webpage.
